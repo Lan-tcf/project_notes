@@ -5,7 +5,7 @@ Underwent Exploratory Data Analysis (EDA) of Airbnb Listings in New York
 
 data downloaded: August 6, 2024
 
-notebook and dashboard presented: August 15, 2025
+notebook and dashboard presented: August 15, 2024
 
 **Files**
 - data downloaded (Airbnb_Open_Data): **archive.zip**
