@@ -1,10 +1,16 @@
 #### Overview of Project
 
-Underwent Exploratory Data Analysis of Airbnb Listings in New York 
+Underwent Exploratory Data Analysis (EDA) of Airbnb Listings in New York 
 (provided by [kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/discussion?sort=hotness))
 
 data downloaded: August 6, 2024
-file: archive.zip
+
+**Files**
+- data downloaded (Airbnb_Open_Data): **archive.zip**
+- dashboard script (Python): **dashboard.py**
+- preprocessed data (for dashboard): **dashboard_file.csv**
+- EDA Jupyter Notebook (Python): **AIRBNB_EDA.ipynb**
+
 
 **Visualizations Explored**
 - Line Plot: Construction Over Time for Airbnb Listings in New York
