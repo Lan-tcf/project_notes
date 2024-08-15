@@ -13,22 +13,22 @@ data downloaded: August 6, 2024
 
 
 **Visualizations Explored**
-- Line Plot: Construction Over Time for Airbnb Listings in New York
-- Area Chart: Trend in Constructed Dwellings by Neighbourhood Groups
-- Waffle Chart: Airbnb Listings by Neighbourhood Group
-- Map Chart: Listings in New York
-- Word Cloud: Neighbourhoods in New York
-- Tree Map: New York Airbnb Listings by Neighbourhood
-- Bar Chart: Airbnb Reviews and Ratings by Neighbourhood Groups
-- Bubble Chart: Staten Island Airbnb Reviews
-- Scatter Plot: Service Fee against Price
-- Histogram: Price for Airbnb Listings Across New York
+- Line Plot: _Construction Over Time for Airbnb Listings in New York_
+- Area Chart: _Trend in Constructed Dwellings by Neighbourhood Groups_
+- Waffle Chart: _Airbnb Listings by Neighbourhood Group_
+- Map Chart: _Listings in New York_
+- Word Cloud: _Neighbourhoods in New York_
+- Tree Map: _New York Airbnb Listings by Neighbourhood_
+- Bar Chart: _Airbnb Reviews and Ratings by Neighbourhood Groups_
+- Bubble Chart: _Staten Island Airbnb Reviews_
+- Scatter Plot: _Service Fee against Price_
+- Histogram: _Price for Airbnb Listings Across New York_
 - Boxplots:
-    - Distribution of AIRBNB Price for New York Neighbourhoods Groups
-    - Distribution of AIRBNB Price Across Cancellation Policy Levels
-    - Distribution of AIRBNB Price for Staten Island Accommodations
-- Pie Chart: Staten Island - Accommodation Types
+    - _Distribution of AIRBNB Price for New York Neighbourhoods Groups_
+    - _Distribution of AIRBNB Price Across Cancellation Policy Levels_
+    - _Distribution of AIRBNB Price for Staten Island Accommodations_
+- Pie Chart: _Staten Island - Accommodation Types_
 
 **Dashboard Script**
-- Pie Chart: Accommodation Type (for each neighbourhood group)
-- Boxplots: Distribution of Price by Accommodation Type (for each neighbourhood group)
+- Pie Chart: _Accommodation Type (for each neighbourhood group)_
+- Boxplots: _Distribution of Price by Accommodation Type (for each neighbourhood group)_
