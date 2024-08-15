@@ -30,5 +30,6 @@ data downloaded: August 6, 2024
 - Pie Chart: _Staten Island - Accommodation Types_
 
 **Dashboard Script**
+A neighbourhood group may be selected, and each of the following plots is generated:
 - Pie Chart: _Accommodation Type (for each neighbourhood group)_
 - Boxplots: _Distribution of Price by Accommodation Type (for each neighbourhood group)_
