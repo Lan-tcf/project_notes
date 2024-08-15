@@ -4,6 +4,7 @@ Underwent Exploratory Data Analysis of Airbnb Listings in New York
 (provided by [kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/discussion?sort=hotness))
 
 data downloaded: August 6, 2024
+file: archive.zip
 
 **Visualizations Explored**
 - Line Plot: Construction Over Time for Airbnb Listings in New York
