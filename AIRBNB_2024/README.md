@@ -4,6 +4,7 @@ Underwent Exploratory Data Analysis (EDA) of Airbnb Listings in New York
 (provided by [kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/discussion?sort=hotness))
 
 data downloaded: August 6, 2024
+
 notebook and dashboard presented: August 15, 2025
 
 **Files**
